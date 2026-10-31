@@ -34,6 +34,7 @@ public:
 
 // using stack
 
+/* 
 class Solution {
 public:
     int pairSum(ListNode* head) {
@@ -50,6 +51,38 @@ public:
             result = max(result,temp->val + st.top());
             temp = temp->next;
             st.pop();
+        }
+        return result;
+    }
+};
+*/
+
+// optimal solution
+
+class Solution {
+public:
+    int pairSum(ListNode* head) {
+        ListNode* slow = head;
+        ListNode* fast = head;
+        while(fast != NULL && fast->next != NULL){
+            slow = slow->next;
+            fast = fast->next->next;
+        }
+        ListNode* temp = slow;
+        ListNode* prev = NULL;
+        while(temp != NULL){
+            ListNode* next = temp->next;
+            temp->next = prev;
+            prev = temp;
+            temp = next;
+        }
+        int result = 0;
+        ListNode* first = head;
+        ListNode* second = prev;
+        while(second != NULL){
+            result = max(result ,first->val+second->val);
+            first = first->next;
+            second = second->next;
         }
         return result;
     }
