@@ -8,6 +8,9 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+
+// brute force
+/*
 class Solution {
 public:
     int pairSum(ListNode* head) {
@@ -25,5 +28,29 @@ public:
             j--;
         }
         return result ;
+    }
+};
+*/
+
+// using stack
+
+class Solution {
+public:
+    int pairSum(ListNode* head) {
+        stack<int>st;
+        ListNode* temp = head;
+        while(temp != NULL){
+            st.push(temp->val);
+            temp = temp->next;
+        }
+        int result=0;
+        temp = head;
+        int count =1;
+        while(count <= st.size()/2){
+            result = max(result,temp->val + st.top());
+            temp = temp->next;
+            st.pop();
+        }
+        return result;
     }
 };
