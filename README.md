@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/tiwarianish1830-svg/DSA/tree/master/0189-rotate-array) |
 | [0445-add-two-numbers-ii](https://github.com/tiwarianish1830-svg/DSA/tree/master/0445-add-two-numbers-ii) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/tiwarianish1830-svg/DSA/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/tiwarianish1830-svg/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Number Theory
 |  |
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tiwarianish1830-svg/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Geometry
+|  |
+| ------- |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/tiwarianish1830-svg/DSA/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 <!---LeetCode Topics End-->
