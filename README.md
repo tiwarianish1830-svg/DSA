@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/tiwarianish1830-svg/DSA/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/tiwarianish1830-svg/DSA/tree/master/0016-3sum-closest) |
 | [0143-reorder-list](https://github.com/tiwarianish1830-svg/DSA/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tiwarianish1830-svg/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tiwarianish1830-svg/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/tiwarianish1830-svg/DSA/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/tiwarianish1830-svg/DSA/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/tiwarianish1830-svg/DSA/tree/master/0016-3sum-closest) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tiwarianish1830-svg/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/tiwarianish1830-svg/DSA/tree/master/0189-rotate-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tiwarianish1830-svg/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -70,5 +72,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/tiwarianish1830-svg/DSA/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/tiwarianish1830-svg/DSA/tree/master/0016-3sum-closest) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tiwarianish1830-svg/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 <!---LeetCode Topics End-->
