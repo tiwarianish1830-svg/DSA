@@ -43,7 +43,7 @@ public:
     }
 };
 */
-
+/*
 class Solution {
 public:
     vector<int> sortArrayByParity(vector<int>& nums) {
@@ -54,6 +54,19 @@ public:
                 j++;
             }
         }
+        return nums;
+    }
+};
+
+
+*/
+class Solution {
+public:
+static bool comperator(int &a,int &b){
+    return  a%2 < b%2;
+}
+    vector<int> sortArrayByParity(vector<int>& nums) {
+        sort(nums.begin(),nums.end(),comperator);
         return nums;
     }
 };
