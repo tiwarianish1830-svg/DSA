@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/tiwarianish1830-svg/DSA/tree/master/0001-two-sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tiwarianish1830-svg/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0645-set-mismatch](https://github.com/tiwarianish1830-svg/DSA/tree/master/0645-set-mismatch) |
 | [0997-find-the-town-judge](https://github.com/tiwarianish1830-svg/DSA/tree/master/0997-find-the-town-judge) |
 | [2007-find-original-array-from-doubled-array](https://github.com/tiwarianish1830-svg/DSA/tree/master/2007-find-original-array-from-doubled-array) |
 ## Linked List
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/tiwarianish1830-svg/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tiwarianish1830-svg/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0605-can-place-flowers](https://github.com/tiwarianish1830-svg/DSA/tree/master/0605-can-place-flowers) |
+| [0645-set-mismatch](https://github.com/tiwarianish1830-svg/DSA/tree/master/0645-set-mismatch) |
 | [0997-find-the-town-judge](https://github.com/tiwarianish1830-svg/DSA/tree/master/0997-find-the-town-judge) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tiwarianish1830-svg/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2007-find-original-array-from-doubled-array](https://github.com/tiwarianish1830-svg/DSA/tree/master/2007-find-original-array-from-doubled-array) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/tiwarianish1830-svg/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/tiwarianish1830-svg/DSA/tree/master/0016-3sum-closest) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tiwarianish1830-svg/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0645-set-mismatch](https://github.com/tiwarianish1830-svg/DSA/tree/master/0645-set-mismatch) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tiwarianish1830-svg/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2007-find-original-array-from-doubled-array](https://github.com/tiwarianish1830-svg/DSA/tree/master/2007-find-original-array-from-doubled-array) |
 ## Greedy
@@ -97,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/tiwarianish1830-svg/DSA/tree/master/0997-find-the-town-judge) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/tiwarianish1830-svg/DSA/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
