@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/tiwarianish1830-svg/DSA/tree/master/0645-set-mismatch) |
 | [0997-find-the-town-judge](https://github.com/tiwarianish1830-svg/DSA/tree/master/0997-find-the-town-judge) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tiwarianish1830-svg/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/tiwarianish1830-svg/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2007-find-original-array-from-doubled-array](https://github.com/tiwarianish1830-svg/DSA/tree/master/2007-find-original-array-from-doubled-array) |
 ## Linked List
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/tiwarianish1830-svg/DSA/tree/master/0997-find-the-town-judge) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tiwarianish1830-svg/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tiwarianish1830-svg/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/tiwarianish1830-svg/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2007-find-original-array-from-doubled-array](https://github.com/tiwarianish1830-svg/DSA/tree/master/2007-find-original-array-from-doubled-array) |
 | [2270-number-of-ways-to-split-array](https://github.com/tiwarianish1830-svg/DSA/tree/master/2270-number-of-ways-to-split-array) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/tiwarianish1830-svg/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -126,4 +128,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tiwarianish1830-svg/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/tiwarianish1830-svg/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 <!---LeetCode Topics End-->
