@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/tiwarianish1830-svg/DSA/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/tiwarianish1830-svg/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/tiwarianish1830-svg/DSA/tree/master/0016-3sum-closest) |
+| [0053-maximum-subarray](https://github.com/tiwarianish1830-svg/DSA/tree/master/0053-maximum-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tiwarianish1830-svg/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/tiwarianish1830-svg/DSA/tree/master/0189-rotate-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/tiwarianish1830-svg/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -129,4 +130,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tiwarianish1830-svg/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/tiwarianish1830-svg/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/tiwarianish1830-svg/DSA/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/tiwarianish1830-svg/DSA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
