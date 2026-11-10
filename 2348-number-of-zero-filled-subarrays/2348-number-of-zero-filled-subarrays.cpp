@@ -5,7 +5,7 @@ public:
         int n = nums.size();
         int i=0;
         while(i<n){
-            int len =0;
+            long long len =0;
             if(nums[i]==0){
                 while(i<n && nums[i]==0){
                     len++;
@@ -14,7 +14,7 @@ public:
             }else{
                 i++;
             }
-            subarray += (1LL * len * (len + 1)) / 2;
+            subarray += (len * (len + 1)) / 2;
         }
         return subarray;
     }
