@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tiwarianish1830-svg/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/tiwarianish1830-svg/DSA/tree/master/0189-rotate-array) |
 | [0905-sort-array-by-parity](https://github.com/tiwarianish1830-svg/DSA/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/tiwarianish1830-svg/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tiwarianish1830-svg/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/tiwarianish1830-svg/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Stack
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/tiwarianish1830-svg/DSA/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/tiwarianish1830-svg/DSA/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/tiwarianish1830-svg/DSA/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/tiwarianish1830-svg/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0997-find-the-town-judge](https://github.com/tiwarianish1830-svg/DSA/tree/master/0997-find-the-town-judge) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tiwarianish1830-svg/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tiwarianish1830-svg/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tiwarianish1830-svg/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0645-set-mismatch](https://github.com/tiwarianish1830-svg/DSA/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/tiwarianish1830-svg/DSA/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/tiwarianish1830-svg/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tiwarianish1830-svg/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tiwarianish1830-svg/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2007-find-original-array-from-doubled-array](https://github.com/tiwarianish1830-svg/DSA/tree/master/2007-find-original-array-from-doubled-array) |
