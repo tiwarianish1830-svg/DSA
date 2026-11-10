@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/tiwarianish1830-svg/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2007-find-original-array-from-doubled-array](https://github.com/tiwarianish1830-svg/DSA/tree/master/2007-find-original-array-from-doubled-array) |
 | [2270-number-of-ways-to-split-array](https://github.com/tiwarianish1830-svg/DSA/tree/master/2270-number-of-ways-to-split-array) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/tiwarianish1830-svg/DSA/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/tiwarianish1830-svg/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Math
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/tiwarianish1830-svg/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/tiwarianish1830-svg/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tiwarianish1830-svg/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/tiwarianish1830-svg/DSA/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/tiwarianish1830-svg/DSA/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/tiwarianish1830-svg/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/tiwarianish1830-svg/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
