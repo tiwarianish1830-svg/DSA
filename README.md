@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/tiwarianish1830-svg/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0997-find-the-town-judge](https://github.com/tiwarianish1830-svg/DSA/tree/master/0997-find-the-town-judge) |
 | [1089-duplicate-zeros](https://github.com/tiwarianish1830-svg/DSA/tree/master/1089-duplicate-zeros) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/tiwarianish1830-svg/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tiwarianish1830-svg/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tiwarianish1830-svg/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/tiwarianish1830-svg/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/tiwarianish1830-svg/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tiwarianish1830-svg/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/tiwarianish1830-svg/DSA/tree/master/0509-fibonacci-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/tiwarianish1830-svg/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/tiwarianish1830-svg/DSA/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/tiwarianish1830-svg/DSA/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/tiwarianish1830-svg/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
