@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/tiwarianish1830-svg/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2540-minimum-common-value](https://github.com/tiwarianish1830-svg/DSA/tree/master/2540-minimum-common-value) |
 | [2562-find-the-array-concatenation-value](https://github.com/tiwarianish1830-svg/DSA/tree/master/2562-find-the-array-concatenation-value) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/tiwarianish1830-svg/DSA/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Stack
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/tiwarianish1830-svg/DSA/tree/master/2540-minimum-common-value) |
 | [2562-find-the-array-concatenation-value](https://github.com/tiwarianish1830-svg/DSA/tree/master/2562-find-the-array-concatenation-value) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/tiwarianish1830-svg/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/tiwarianish1830-svg/DSA/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Math
 |  |
 | ------- |
