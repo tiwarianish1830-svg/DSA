@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/tiwarianish1830-svg/DSA/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/tiwarianish1830-svg/DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/tiwarianish1830-svg/DSA/tree/master/0922-sort-array-by-parity-ii) |
+| [0941-valid-mountain-array](https://github.com/tiwarianish1830-svg/DSA/tree/master/0941-valid-mountain-array) |
 | [0997-find-the-town-judge](https://github.com/tiwarianish1830-svg/DSA/tree/master/0997-find-the-town-judge) |
 | [1089-duplicate-zeros](https://github.com/tiwarianish1830-svg/DSA/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/tiwarianish1830-svg/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
