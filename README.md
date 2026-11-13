@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/tiwarianish1830-svg/DSA/tree/master/1768-merge-strings-alternately) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/tiwarianish1830-svg/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/tiwarianish1830-svg/DSA/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2460-apply-operations-to-an-array](https://github.com/tiwarianish1830-svg/DSA/tree/master/2460-apply-operations-to-an-array) |
 | [2540-minimum-common-value](https://github.com/tiwarianish1830-svg/DSA/tree/master/2540-minimum-common-value) |
 | [2562-find-the-array-concatenation-value](https://github.com/tiwarianish1830-svg/DSA/tree/master/2562-find-the-array-concatenation-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/tiwarianish1830-svg/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2270-number-of-ways-to-split-array](https://github.com/tiwarianish1830-svg/DSA/tree/master/2270-number-of-ways-to-split-array) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/tiwarianish1830-svg/DSA/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/tiwarianish1830-svg/DSA/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2460-apply-operations-to-an-array](https://github.com/tiwarianish1830-svg/DSA/tree/master/2460-apply-operations-to-an-array) |
 | [2540-minimum-common-value](https://github.com/tiwarianish1830-svg/DSA/tree/master/2540-minimum-common-value) |
 | [2562-find-the-array-concatenation-value](https://github.com/tiwarianish1830-svg/DSA/tree/master/2562-find-the-array-concatenation-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/tiwarianish1830-svg/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/tiwarianish1830-svg/DSA/tree/master/0067-add-binary) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/tiwarianish1830-svg/DSA/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2460-apply-operations-to-an-array](https://github.com/tiwarianish1830-svg/DSA/tree/master/2460-apply-operations-to-an-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/tiwarianish1830-svg/DSA/tree/master/2562-find-the-array-concatenation-value) |
 ## Recursion
 |  |
