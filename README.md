@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2109-adding-spaces-to-a-string](https://github.com/tiwarianish1830-svg/DSA/tree/master/2109-adding-spaces-to-a-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/tiwarianish1830-svg/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tiwarianish1830-svg/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/tiwarianish1830-svg/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/tiwarianish1830-svg/DSA/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2460-apply-operations-to-an-array](https://github.com/tiwarianish1830-svg/DSA/tree/master/2460-apply-operations-to-an-array) |
 | [2540-minimum-common-value](https://github.com/tiwarianish1830-svg/DSA/tree/master/2540-minimum-common-value) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/tiwarianish1830-svg/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/tiwarianish1830-svg/DSA/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tiwarianish1830-svg/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/tiwarianish1830-svg/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2270-number-of-ways-to-split-array](https://github.com/tiwarianish1830-svg/DSA/tree/master/2270-number-of-ways-to-split-array) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/tiwarianish1830-svg/DSA/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/tiwarianish1830-svg/DSA/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/tiwarianish1830-svg/DSA/tree/master/0067-add-binary) |
 | [2109-adding-spaces-to-a-string](https://github.com/tiwarianish1830-svg/DSA/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tiwarianish1830-svg/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/tiwarianish1830-svg/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/tiwarianish1830-svg/DSA/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/tiwarianish1830-svg/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/tiwarianish1830-svg/DSA/tree/master/2460-apply-operations-to-an-array) |
