@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2562-find-the-array-concatenation-value](https://github.com/tiwarianish1830-svg/DSA/tree/master/2562-find-the-array-concatenation-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/tiwarianish1830-svg/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3794-reverse-string-prefix](https://github.com/tiwarianish1830-svg/DSA/tree/master/3794-reverse-string-prefix) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/tiwarianish1830-svg/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/tiwarianish1830-svg/DSA/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/tiwarianish1830-svg/DSA/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Stack
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-calculate-digit-sum-of-a-string](https://github.com/tiwarianish1830-svg/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/tiwarianish1830-svg/DSA/tree/master/2460-apply-operations-to-an-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/tiwarianish1830-svg/DSA/tree/master/2562-find-the-array-concatenation-value) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/tiwarianish1830-svg/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Recursion
 |  |
 | ------- |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2109-adding-spaces-to-a-string](https://github.com/tiwarianish1830-svg/DSA/tree/master/2109-adding-spaces-to-a-string) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/tiwarianish1830-svg/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/tiwarianish1830-svg/DSA/tree/master/3794-reverse-string-prefix) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/tiwarianish1830-svg/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
