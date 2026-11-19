@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2460-apply-operations-to-an-array](https://github.com/tiwarianish1830-svg/DSA/tree/master/2460-apply-operations-to-an-array) |
 | [2540-minimum-common-value](https://github.com/tiwarianish1830-svg/DSA/tree/master/2540-minimum-common-value) |
 | [2562-find-the-array-concatenation-value](https://github.com/tiwarianish1830-svg/DSA/tree/master/2562-find-the-array-concatenation-value) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/tiwarianish1830-svg/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/tiwarianish1830-svg/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/tiwarianish1830-svg/DSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/tiwarianish1830-svg/DSA/tree/master/3364-minimum-positive-sum-subarray) |
@@ -169,12 +170,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tiwarianish1830-svg/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2007-find-original-array-from-doubled-array](https://github.com/tiwarianish1830-svg/DSA/tree/master/2007-find-original-array-from-doubled-array) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/tiwarianish1830-svg/DSA/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/tiwarianish1830-svg/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/tiwarianish1830-svg/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Greedy
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/tiwarianish1830-svg/DSA/tree/master/0605-can-place-flowers) |
 | [2007-find-original-array-from-doubled-array](https://github.com/tiwarianish1830-svg/DSA/tree/master/2007-find-original-array-from-doubled-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/tiwarianish1830-svg/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Graph Theory
 |  |
 | ------- |
