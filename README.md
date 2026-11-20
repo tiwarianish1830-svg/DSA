@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/tiwarianish1830-svg/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tiwarianish1830-svg/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/tiwarianish1830-svg/DSA/tree/master/0189-rotate-array) |
+| [0696-count-binary-substrings](https://github.com/tiwarianish1830-svg/DSA/tree/master/0696-count-binary-substrings) |
 | [0821-shortest-distance-to-a-character](https://github.com/tiwarianish1830-svg/DSA/tree/master/0821-shortest-distance-to-a-character) |
 | [0905-sort-array-by-parity](https://github.com/tiwarianish1830-svg/DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/tiwarianish1830-svg/DSA/tree/master/0922-sort-array-by-parity-ii) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/tiwarianish1830-svg/DSA/tree/master/0067-add-binary) |
+| [0696-count-binary-substrings](https://github.com/tiwarianish1830-svg/DSA/tree/master/0696-count-binary-substrings) |
 | [0821-shortest-distance-to-a-character](https://github.com/tiwarianish1830-svg/DSA/tree/master/0821-shortest-distance-to-a-character) |
 | [1768-merge-strings-alternately](https://github.com/tiwarianish1830-svg/DSA/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/tiwarianish1830-svg/DSA/tree/master/2000-reverse-prefix-of-word) |
