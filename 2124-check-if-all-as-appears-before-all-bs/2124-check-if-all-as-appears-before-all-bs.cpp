@@ -45,10 +45,22 @@ public:
 
 // 2nd approach
 
+/*
 class Solution {
 public:
     bool checkString(string s) {
         if(s.find("ba") != string::npos) return false;
         return true;
+    }
+};
+*/
+
+// approch 3 by myself
+
+class Solution {
+public:
+    bool checkString(string s) {
+        if(is_sorted(s.begin(), s.end()))return true;
+        return false;
     }
 };
