@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/tiwarianish1830-svg/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [1089-duplicate-zeros](https://github.com/tiwarianish1830-svg/DSA/tree/master/1089-duplicate-zeros) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tiwarianish1830-svg/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/tiwarianish1830-svg/DSA/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1768-merge-strings-alternately](https://github.com/tiwarianish1830-svg/DSA/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/tiwarianish1830-svg/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/tiwarianish1830-svg/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tiwarianish1830-svg/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tiwarianish1830-svg/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/tiwarianish1830-svg/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/tiwarianish1830-svg/DSA/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/tiwarianish1830-svg/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2007-find-original-array-from-doubled-array](https://github.com/tiwarianish1830-svg/DSA/tree/master/2007-find-original-array-from-doubled-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/tiwarianish1830-svg/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/tiwarianish1830-svg/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tiwarianish1830-svg/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tiwarianish1830-svg/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/tiwarianish1830-svg/DSA/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [2540-minimum-common-value](https://github.com/tiwarianish1830-svg/DSA/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/tiwarianish1830-svg/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Geometry
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/tiwarianish1830-svg/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tiwarianish1830-svg/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tiwarianish1830-svg/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/tiwarianish1830-svg/DSA/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [2007-find-original-array-from-doubled-array](https://github.com/tiwarianish1830-svg/DSA/tree/master/2007-find-original-array-from-doubled-array) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/tiwarianish1830-svg/DSA/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/tiwarianish1830-svg/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -215,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/tiwarianish1830-svg/DSA/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/tiwarianish1830-svg/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2270-number-of-ways-to-split-array](https://github.com/tiwarianish1830-svg/DSA/tree/master/2270-number-of-ways-to-split-array) |
 | [3364-minimum-positive-sum-subarray](https://github.com/tiwarianish1830-svg/DSA/tree/master/3364-minimum-positive-sum-subarray) |
