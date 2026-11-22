@@ -22,6 +22,7 @@ public:
 */
 
 // 1st approach
+/*
 class Solution {
 public:
     bool checkString(string s) {
@@ -38,5 +39,16 @@ public:
         if(lasta==-1 || firstb==-1)return true;
         if(lasta<firstb)return true;
         return false;
+    }
+};
+*/
+
+// 2nd approach
+
+class Solution {
+public:
+    bool checkString(string s) {
+        if(s.find("ba") != string::npos) return false;
+        return true;
     }
 };
