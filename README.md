@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/tiwarianish1830-svg/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/tiwarianish1830-svg/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/tiwarianish1830-svg/DSA/tree/master/2109-adding-spaces-to-a-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/tiwarianish1830-svg/DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/tiwarianish1830-svg/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/tiwarianish1830-svg/DSA/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/tiwarianish1830-svg/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
