@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3340-check-balanced-string](https://github.com/tiwarianish1830-svg/DSA/tree/master/3340-check-balanced-string) |
 | [3794-reverse-string-prefix](https://github.com/tiwarianish1830-svg/DSA/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/tiwarianish1830-svg/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
+| [3931-check-adjacent-digit-differences](https://github.com/tiwarianish1830-svg/DSA/tree/master/3931-check-adjacent-digit-differences) |
 ## Prefix Sum
 |  |
 | ------- |
