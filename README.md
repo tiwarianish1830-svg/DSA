@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/tiwarianish1830-svg/DSA/tree/master/0821-shortest-distance-to-a-character) |
 | [0905-sort-array-by-parity](https://github.com/tiwarianish1830-svg/DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/tiwarianish1830-svg/DSA/tree/master/0922-sort-array-by-parity-ii) |
+| [0962-maximum-width-ramp](https://github.com/tiwarianish1830-svg/DSA/tree/master/0962-maximum-width-ramp) |
 | [1089-duplicate-zeros](https://github.com/tiwarianish1830-svg/DSA/tree/master/1089-duplicate-zeros) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tiwarianish1830-svg/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/tiwarianish1830-svg/DSA/tree/master/1508-range-sum-of-sorted-subarray-sums) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/tiwarianish1830-svg/DSA/tree/master/0143-reorder-list) |
 | [0445-add-two-numbers-ii](https://github.com/tiwarianish1830-svg/DSA/tree/master/0445-add-two-numbers-ii) |
+| [0962-maximum-width-ramp](https://github.com/tiwarianish1830-svg/DSA/tree/master/0962-maximum-width-ramp) |
 | [2000-reverse-prefix-of-word](https://github.com/tiwarianish1830-svg/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/tiwarianish1830-svg/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Array
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/tiwarianish1830-svg/DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/tiwarianish1830-svg/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0941-valid-mountain-array](https://github.com/tiwarianish1830-svg/DSA/tree/master/0941-valid-mountain-array) |
+| [0962-maximum-width-ramp](https://github.com/tiwarianish1830-svg/DSA/tree/master/0962-maximum-width-ramp) |
 | [0997-find-the-town-judge](https://github.com/tiwarianish1830-svg/DSA/tree/master/0997-find-the-town-judge) |
 | [1089-duplicate-zeros](https://github.com/tiwarianish1830-svg/DSA/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/tiwarianish1830-svg/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -266,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2367-number-of-arithmetic-triplets](https://github.com/tiwarianish1830-svg/DSA/tree/master/2367-number-of-arithmetic-triplets) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0962-maximum-width-ramp](https://github.com/tiwarianish1830-svg/DSA/tree/master/0962-maximum-width-ramp) |
 <!---LeetCode Topics End-->
