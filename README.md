@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/tiwarianish1830-svg/DSA/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/tiwarianish1830-svg/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/tiwarianish1830-svg/DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1732-find-the-highest-altitude](https://github.com/tiwarianish1830-svg/DSA/tree/master/1732-find-the-highest-altitude) |
 | [2007-find-original-array-from-doubled-array](https://github.com/tiwarianish1830-svg/DSA/tree/master/2007-find-original-array-from-doubled-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/tiwarianish1830-svg/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/tiwarianish1830-svg/DSA/tree/master/2109-adding-spaces-to-a-string) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/tiwarianish1830-svg/DSA/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/tiwarianish1830-svg/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1732-find-the-highest-altitude](https://github.com/tiwarianish1830-svg/DSA/tree/master/1732-find-the-highest-altitude) |
 | [2270-number-of-ways-to-split-array](https://github.com/tiwarianish1830-svg/DSA/tree/master/2270-number-of-ways-to-split-array) |
 | [3364-minimum-positive-sum-subarray](https://github.com/tiwarianish1830-svg/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 ## Counting Sort
